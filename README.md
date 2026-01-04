@@ -5,7 +5,7 @@ Symulator transportu piwa w świecie Hobbitów (projekt zaliczeniowy).
 ![zakładka symulacja 1](Documentation/readme-images/symulacja1.jpg)
 
 | Ikona | Opis |
-|------|------|
+|:----:|------|
 | <img src="Documentation/readme-images/barley.png" height="40" /> | Pola, na których Hobbici produkują jęczmień |
 | <img src="Documentation/readme-images/brewery.png" height="40" /> | Browary, w których jęczmień przetwarzany jest na piwo |
 | <img src="Documentation/readme-images/pub.png" height="40" /> | Karczmy, do których ma trafić piwo |
