@@ -2,14 +2,20 @@
 # ShireCraft
 Symulator transportu piwa w świecie Hobbitów (projekt zaliczeniowy).
 
-![zakładka symulacja 1](Documentation/readme-images/symulacja1.jpg)
+![zakładka symulacja 1](Documentation/readme-images/symulacja1)
 
 Plan transportu zawiera informacje o:
-- polach, na których Hobbici produkują jęczmień;
-- browarach, w których jęczmień przetwarzany jest na piwo;
-- karczmach, do których ma trafić piwo;
-- skrzyżowaniach;
-- drogach biegnących między punktami.
+- <img align="left"  width="50" height="50" src="Documentation/readme-images/barley.png"> polach, na których Hobbici produkują jęczmień;
+
+- <img align="left"  width="50" height="50" src="Documentation/readme-images/brewery.png"> browarach, w których jęczmień przetwarzany jest na piwo;
+
+- <img align="left"  width="50" height="50" src="Documentation/readme-images/pub.png"> karczmach, do których ma trafić piwo;
+
+- <img align="left"  width="50" height="50" src="Documentation/readme-images/circle.png"> skrzyżowaniach;
+
+- <img align="left"  width="50" height="50" src="Documentation/readme-images/arrow.png"> drogach biegnących między punktami;
+
+- ćwiartkach (obszary z zielonymi krawędziami).
 
 ## Funkcje
 
@@ -25,21 +31,21 @@ Plan transportu zawiera informacje o:
 
 4. Analiza połączeń krok-po-kroku, znajdująca trasy o największej przepustowości przy minimalnym koszcie (minimum-cost flow).
 
-![zakładka symulacja 2](Documentation/readme-images/symulacja2.jpg)
+![zakładka symulacja 2](Documentation/readme-images/symulacja2)
 
 5. Generowanie częściowo losowych sieci połączeń.
 
-![okno generatora](Documentation/readme-images/generator.png)
+![okno generatora](Documentation/readme-images/generator)
 
-![wygenerowana mapa](Documentation/readme-images/wygenerowanaMapa.jpg)
+![wygenerowana mapa](Documentation/readme-images/wygenerowanaMapa)
 
 6. Asynchroniczne działanie.
 
-![ekran ładowania](Documentation/readme-images/ekranLadowania.jpg)
+![ekran ładowania](Documentation/readme-images/ekranLadowania)
 
 7. Ustawienia i customizacja.
 
-![zakładka ustawienia](Documentation/readme-images/ustawienia.jpg)
+![zakładka ustawienia](Documentation/readme-images/ustawienia)
 
 8. Statystyki mapy i symulacji.
 
