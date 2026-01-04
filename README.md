@@ -2,20 +2,16 @@
 # ShireCraft
 Symulator transportu piwa w świecie Hobbitów (projekt zaliczeniowy).
 
-![zakładka symulacja 1](Documentation/readme-images/symulacja1)
+![zakładka symulacja 1](Documentation/readme-images/symulacja1.jpg)
 
-Plan transportu zawiera informacje o:
-- <img align="left"  width="50" height="50" src="Documentation/readme-images/barley.png"> polach, na których Hobbici produkują jęczmień;
-
-- <img align="left"  width="50" height="50" src="Documentation/readme-images/brewery.png"> browarach, w których jęczmień przetwarzany jest na piwo;
-
-- <img align="left"  width="50" height="50" src="Documentation/readme-images/pub.png"> karczmach, do których ma trafić piwo;
-
-- <img align="left"  width="50" height="50" src="Documentation/readme-images/circle.png"> skrzyżowaniach;
-
-- <img align="left"  width="50" height="50" src="Documentation/readme-images/arrow.png"> drogach biegnących między punktami;
-
-- ćwiartkach (obszary z zielonymi krawędziami).
+| Ikona | Opis |
+|------|------|
+| <img src="Documentation/readme-images/barley.png" height="40" /> | Pola, na których Hobbici produkują jęczmień |
+| <img src="Documentation/readme-images/brewery.png" height="40" /> | Browary, w których jęczmień przetwarzany jest na piwo |
+| <img src="Documentation/readme-images/pub.png" height="40" /> | Karczmy, do których ma trafić piwo |
+| <img src="Documentation/readme-images/circle.png" height="40" /> | Skrzyżowania |
+| <img src="Documentation/readme-images/arrow.png" height="40" /> | Drogi między punktami |
+| <img src="Documentation/readme-images/quarter.png" height="40" /> | Ćwiartki, które wyznaczają ilości jęczmienia na polach |
 
 ## Funkcje
 
