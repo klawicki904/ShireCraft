@@ -19,34 +19,48 @@ Symulator transportu piwa w świecie Hobbitów (projekt zaliczeniowy).
 
 ![zakładka mapa](Documentation/readme-images/mapa.jpg)
 
+---
+
 2. Odczyt/zapis z/do pliku.
 3. Kompresja plików.
 4. Wyszukiwanie wzorca w tekście.
 
 ![zakładka pliki](Documentation/readme-images/pliki.jpg)
 
+---
+
 4. Analiza połączeń krok-po-kroku, znajdująca trasy o największej przepustowości przy minimalnym koszcie (minimum-cost flow).
 
-![zakładka symulacja 2](Documentation/readme-images/symulacja2)
+![zakładka symulacja 2](Documentation/readme-images/symulacja2.jpg)
+
+---
 
 5. Generowanie częściowo losowych sieci połączeń.
 
-![okno generatora](Documentation/readme-images/generator)
+![okno generatora](Documentation/readme-images/generator.png)
 
-![wygenerowana mapa](Documentation/readme-images/wygenerowanaMapa)
+![wygenerowana mapa](Documentation/readme-images/wygenerowanaMapa.jpg)
+
+---
 
 6. Asynchroniczne działanie.
 
-![ekran ładowania](Documentation/readme-images/ekranLadowania)
+![ekran ładowania](Documentation/readme-images/ekranLadowania.jpg)
+
+---
 
 7. Ustawienia i customizacja.
 
-![zakładka ustawienia](Documentation/readme-images/ustawienia)
+![zakładka ustawienia](Documentation/readme-images/ustawienia.jpg)
+
+---
 
 8. Statystyki mapy i symulacji.
 
-![statystyki](Documentation/readme-images/statystyki)
+![statystyki](Documentation/readme-images/statystyki.jpg)
+
+---
 
 9. Instrukcja obsługi wewnątrz aplikacji.
 
-![pomoc](Documentation/readme-images/pomoc)
+![pomoc](Documentation/readme-images/pomoc.jpg)
