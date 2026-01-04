@@ -1,7 +1,8 @@
 
 # ShireCraft
 Symulator transportu piwa w świecie Hobbitów (projekt zaliczeniowy).
-![zakładka symulacja 1](Documentation/readme-images/symulacja1)
+
+![zakładka symulacja 1](Documentation/readme-images/symulacja1.jpg)
 
 Plan transportu zawiera informacje o:
 - polach, na których Hobbici produkują jęczmień;
@@ -24,21 +25,21 @@ Plan transportu zawiera informacje o:
 
 4. Analiza połączeń krok-po-kroku, znajdująca trasy o największej przepustowości przy minimalnym koszcie (minimum-cost flow).
 
-![zakładka symulacja 2](Documentation/readme-images/symulacja2)
+![zakładka symulacja 2](Documentation/readme-images/symulacja2.jpg)
 
 5. Generowanie częściowo losowych sieci połączeń.
 
-![okno generatora](Documentation/readme-images/generator)
+![okno generatora](Documentation/readme-images/generator.png)
 
-![wygenerowana mapa](Documentation/readme-images/wygenerowanaMapa)
+![wygenerowana mapa](Documentation/readme-images/wygenerowanaMapa.jpg)
 
 6. Asynchroniczne działanie.
 
-![ekran ładowania](Documentation/readme-images/ekranLadowania)
+![ekran ładowania](Documentation/readme-images/ekranLadowania.jpg)
 
 7. Ustawienia i customizacja.
 
-![zakładka ustawienia](Documentation/readme-images/ustawienia)
+![zakładka ustawienia](Documentation/readme-images/ustawienia.jpg)
 
 8. Statystyki mapy i symulacji.
 
