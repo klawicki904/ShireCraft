@@ -2,7 +2,7 @@
 # ShireCraft
 Symulator transportu piwa w świecie Hobbitów (projekt zaliczeniowy).
 
-![zakładka symulacja 1](Documentation/readme-images/symulacja1)
+![zakładka symulacja 1](Documentation/readme-images/symulacja1.jpg)
 
 | Ikona | Opis |
 |------|------|
