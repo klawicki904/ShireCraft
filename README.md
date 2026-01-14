@@ -1,5 +1,5 @@
-
 # ShireCraft
+**Aplikacja okienkowa | Unity [C#], WPF [C#], C++ | projekt zespołowy (5 osób)**
 Symulator transportu piwa w świecie Hobbitów (projekt zaliczeniowy).
 
 ![zakładka symulacja 1](Documentation/readme-images/symulacja1.jpg)
@@ -29,13 +29,13 @@ Symulator transportu piwa w świecie Hobbitów (projekt zaliczeniowy).
 
 ---
 
-4. Analiza połączeń krok-po-kroku, znajdująca trasy o największej przepustowości przy minimalnym koszcie (minimum-cost flow).
+5. Analiza połączeń krok-po-kroku, znajdująca trasy o największej przepustowości przy minimalnym koszcie (minimum-cost flow).
 
 ![zakładka symulacja 2](Documentation/readme-images/symulacja2.jpg)
 
 ---
 
-5. Generowanie częściowo losowych sieci połączeń.
+6. Generowanie częściowo losowych sieci połączeń.
 
 ![okno generatora](Documentation/readme-images/generator.png)
 
@@ -43,19 +43,19 @@ Symulator transportu piwa w świecie Hobbitów (projekt zaliczeniowy).
 
 ---
 
-6. Asynchroniczne działanie.
+7. Asynchroniczne działanie.
 
 ![ekran ładowania](Documentation/readme-images/ekranLadowania.jpg)
 
 ---
 
-7. Ustawienia i customizacja.
+8. Ustawienia i customizacja.
 
 ![zakładka ustawienia](Documentation/readme-images/ustawienia.jpg)
 
 ---
 
-8. Statystyki mapy i symulacji.
+9. Statystyki mapy i symulacji.
 
 ![statystyki](Documentation/readme-images/statystyki.jpg)
 
@@ -64,3 +64,8 @@ Symulator transportu piwa w świecie Hobbitów (projekt zaliczeniowy).
 9. Instrukcja obsługi wewnątrz aplikacji.
 
 ![pomoc](Documentation/readme-images/pomoc.jpg)
+
+---
+
+## Status projektu
+- Projekt ukończony
