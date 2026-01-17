@@ -61,7 +61,7 @@ Symulator transportu piwa w świecie Hobbitów (projekt zaliczeniowy).
 
 ---
 
-9. Instrukcja obsługi wewnątrz aplikacji.
+10. Instrukcja obsługi wewnątrz aplikacji.
 
 ![pomoc](Documentation/readme-images/pomoc.jpg)
 
